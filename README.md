@@ -1,2 +1,53 @@
 # low-fidelity-mock-up
 To-Do List App - Low-Fidelity Mock-Up
+1. Splash Screen:
+Purpose: Introduce the app.
+Components:
+Logo placeholder.
+Loading text.
+
+2. Onboarding:
+Purpose: Welcome users and guide them through basic app usage.
+Components:
+Welcome text.
+Simple illustrations.
+Basic "Next" button.
+
+3. Home Screen:
+Purpose: Display current tasks.
+Components:
+Bulleted list of tasks.
+"Add Task" button.
+
+4. Add Task:
+Purpose: Allow users to input new tasks.
+Components:
+Basic form with text input.
+Generic date and time picker.
+"Save" and "Cancel" buttons.
+
+5. Task Detail:
+Purpose: Show details of a selected task.
+Components:
+Task name and details.
+"Edit" and "Delete" buttons.
+
+6. Completed Tasks:
+Purpose: Display a list of completed tasks.
+Components:
+Basic list of completed tasks.
+"Undo" button.
+
+7. Settings:
+Purpose: Allow users to customize app settings.
+Components:
+Basic toggle for light/dark mode.
+Simple notification toggle.
+"About" button.
+
+8. About/Help:
+Purpose: Provide additional information about the app.
+Components:
+Basic text information.
+Simple FAQ list.
+Basic contact details.
